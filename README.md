@@ -20,10 +20,8 @@ Currently working at **ANTHARYS**, contributing to the evolution and refactoring
 ---
 
 ###
-### Latest Articles / Activity
-<!-- BLOG-POST-LIST:START -->
-<!-- GitHub Actions workflow will update this block automatically -->
-<!-- BLOG-POST-LIST:END -->
+### Portifólio
+https://arthur-de-andrade.github.io/Curriculum-Vitae/curriculo.html
 
 ---
 
