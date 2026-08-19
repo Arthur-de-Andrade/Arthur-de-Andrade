@@ -19,15 +19,15 @@ Currently working at **ANTHARYS**, contributing to the evolution and refactoring
 
 ---
 
-### GitHub Statistics
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-de-Andrade&show_icons=true&theme=radial&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-de-Andrade&layout=compact&theme=radial&hide=html,css" alt="Most Used Languages" height="175" />
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-de-Andrade/Arthur-de-Andrade/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-de-Andrade/Arthur-de-Andrade/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-de-Andrade/Arthur-de-Andrade/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
----
-
+###
 ### Latest Articles / Activity
 <!-- BLOG-POST-LIST:START -->
 <!-- GitHub Actions workflow will update this block automatically -->
