@@ -21,8 +21,7 @@ Currently working at **ANTHARYS**, contributing to the evolution and refactoring
 
 ###
 ### Portifólio
-https://arthur-de-andrade.github.io/Curriculum-Vitae/curriculo.html
-
+https://arthur-de-andrade.github.io/Curriculum-Vitae/
 ---
 
 ### Contact Information
